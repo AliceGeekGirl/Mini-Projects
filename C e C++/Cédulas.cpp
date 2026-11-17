@@ -6,7 +6,6 @@ int main() {
     //Declaração das variáveis
     int i;
     int N;
-    
     //Vetor que armazena os valores das cédulas disponíveis, em ordem decrescente
     int cedulas[7] = {100, 50, 20, 10, 5, 2, 1};
     
